@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello! This is Rafie ✨
+Data Scientist reaching out something to hold
+
+Geosciences
 
 <!--
 **rafie-b/rafie-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
