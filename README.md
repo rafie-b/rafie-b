@@ -1,5 +1,5 @@
 ### Hello! This is Rafie ✨
-Data Scientist reaching out something to hold
+Data Science enthusiast reaching out something to hold
 
 Geosciences
 
