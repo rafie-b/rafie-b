@@ -5,7 +5,7 @@ Data Science enthusiast reaching out something to hold
 
 This is a general repo where I'm storing tests and other working lines.
 
-🔭 I’m currently working on Data projects, elaborating digital products and learning to manage efficient databases. 🌱 
+🔭 I’m currently working on Data Analytics projects, elaborating digital products and learning to manage efficient databases. 🌱 
 
 ⚡ Check out the Organizations I'm working on!
 
