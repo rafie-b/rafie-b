@@ -1,7 +1,7 @@
-## Hello! This is Rafieb ✨
-Data Science enthusiast reaching out something to hold
+## Hello! This is Rafieb 🤍
+### Geoscientist 🌎
 
-### Geoscientist
+✨ Data Science enthusiast reaching out something to hold ✨
 
 This is a general repo where I'm storing tests and other working lines.
 
