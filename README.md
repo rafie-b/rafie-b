@@ -1,15 +1,12 @@
 ## Hello! This is Rafieb 🤍
-### Geoscientist 🌎
-
-✨ Data Science enthusiast reaching out something to hold ✨
-
-This is a general repo where I'm storing tests and other working lines.
+### Data Analyst 🌎
+This is a repository for frameworks and tests.
 
 🔭 I’m working on Data Analytics projects, elaborating digital products and learning sustainability management. 🌱 
 
-⚡ Check out the Organizations I'm working on!
+⚡ Check out the organizations I'm working on!
 
-It's a pleasure having you here! 😄
+✨ Reaching out ✨
 
 <!--
 **rafie-b/rafie-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
