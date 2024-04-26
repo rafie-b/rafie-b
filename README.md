@@ -10,10 +10,10 @@ This is a repository for frameworks and tests.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafie-b)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafie-b)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafie-b&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>](https://www.linkedin.com/in/barbosa89/)
-
+[<img src='https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white'>](https://www.kaggle.com/rafieb/)
 
 <!--
 
