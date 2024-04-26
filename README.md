@@ -13,7 +13,7 @@ This is a repository for frameworks and tests.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafie-b)](https://github.com/anuraghazra/github-readme-stats)]
 
-[<imag src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>](www.linkedin.com/in/barbosa89)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>](www.linkedin.com/in/barbosa89)
 
 
 <!--
