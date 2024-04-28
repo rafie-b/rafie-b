@@ -1,5 +1,6 @@
-## Hello! This is Rafie Data Analyst 🌎🤍
+## Hello! This is Data Analyst Rafie 🌎🤍
 This is a repository for frameworks and tests.
+
 🌱 I’m working on Data Analytics projects, elaborating digital products and learning sustainability management.
 Degree in Meteorology and focus on technology. Manipulating data in all academic years practicing mathematics, statistics and data visualization, turned diversed data, ETL and exploratory analyses all familiar.
 During Data Analyst certification program from EBAC (April-2024) I developed data projects (links in the description) and pipelines using Python, SQL, Machine Learning and Amazon Web Services.
