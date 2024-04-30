@@ -1,5 +1,5 @@
 ## Hello! This is Data Analyst Rafie 🌎🤍
-This is a repository for frameworks and tests.
+And here are for frameworks and tests.
 
 🌱 I’m working on Data Analytics projects, elaborating digital products and learning sustainability management.
 Degree in Meteorology and focus on technology. Manipulating data in all academic years practicing mathematics, statistics and data visualization, turned diversed data, ETL and exploratory analyses all familiar.
