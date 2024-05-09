@@ -1,15 +1,11 @@
-## Hello! This is Rafie 🤍
-### Data Analyst 🌎
-
-This is a repository for frameworks and tests.
+## Hello! This is Data Analyst Rafie 🌎🤍
+And here are for frameworks and tests.
 
 🌱 I’m working on Data Analytics projects, elaborating digital products and learning sustainability management.
+Degree in Meteorology and focus on technology. Manipulating data in all academic years practicing mathematics, statistics and data visualization, turned diversed data, ETL and exploratory analyses all familiar.
+During Data Analyst certification program from EBAC (April-2024) I developed data projects (links in the description) and pipelines using Python, SQL, Machine Learning and Amazon Web Services.
 
-Degree in Meteorology and focus on technology. Manipulating data in electronic spreadsheets in all academic years practing mathematics, statistics and data visualization. All this made me familiar with diverse databases, ETL and exploratory analyses.
-
-During Data Analyst certificate program from EBAC (April-2024) developed data projects (links in the description) and pipelines using Python, SQL, Machine Learning and Amazon Web Services.
-
-⚡Current and focused skills:
+⚡Current skills and focusing:
 - Exploratory Data Analysis (EDA) and data processing
 - Data visualization (Python, Excel, Looker Studio, Power BI)
 - Python (Pandas, Seaborn, Numpy, PyArrow, Scikit-learn)
@@ -19,9 +15,9 @@ During Data Analyst certificate program from EBAC (April-2024) developed data pr
 - Advanced Excel
 - Agile methodology (Agile, Scrum, Kanban)
 - Big Data, PySpark
-- Machine Learning.
+- Machine Learning
 
-🔭 Data and science driven, sustainability management and social demands seeker. I get satisfied in environments of productive feedbacks and learning. Assertive, creative and empathetic, I desire to make difference in decision-making developing solutions using agile work principles and Artificial Intelligence tools.
+🔭 Data and science driven, I get satisfied in environments of productive feedback and learning. Assertive, creative and empathetic, I desire to impact decision-making development using agile work principles and Artificial Intelligence tools.
 
 ✨ Shall we commit? ✨
 
