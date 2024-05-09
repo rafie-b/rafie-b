@@ -1,26 +1,30 @@
-Iniciar um projeto:
-
+# Um projeto de análise de dados e aprendizado de máquina
 Passo a passo:
 
-1. Encontrar uma problemática da vida real, que reflita as atividades do World Economic Forum e da empresa Salesforce, que tenha uma solução viável através de análise de dados e machine learning, e dissertar justificando a relevância do uso de dados no caso encontrado.
+## 1. Desenvolver uma solução para desafio que reflita a realidade.
+Foco em Gestão de Sustentabilidade (World Economic Forum) e Gestão de Relacionamento com o Cliente (CRM Salesforce) usando análise de dados e machine learning.
+Documentação justificando a relevância do uso de dados.
 
-  # "nome do projeto"
+´´´html
+  ### "name"
   
-  # While Salesforce and the World Economic Forum (WEF) operate in very different domains, they do share some common challenges that could potentially be addressed through data analysis and machine learning:
-  
-  - **Data Management**: Both organizations handle vast amounts of data, which can be challenging to manage effectively. Machine learning algorithms can help automate data cleaning, integration, and transformation processes, making it easier to maintain high-quality, up-to-date datasets.
-  - **Decision Making**: Both Salesforce and WEF need to make strategic decisions based on complex, multifaceted information. Data analysis can help synthesize this information into actionable insights, while machine learning can be used to develop predictive models that inform future decision-making to help optimize resource allocation, ensuring efficient performance to scale.
+  ### - **Data Management**
+  Machine learning algorithms can help automate data cleaning, integration, and transformation processes, making it easier to maintain high-quality up-to-date datasets.
+  ### - **Decision Making**
+  Strategic decisions based on complex, multifaceted information. Data analysis can help synthesize this information into actionable insights, while machine learning can be used to develop predictive models that inform future decision-making to help optimize resource allocation, ensuring efficient performance to scale.
+```
 
-2. Levantar as fontes de dados públicas e não confidenciais e iniciar a coleta de informações. Esse projeto deve ser feito em formato Python através do Google Collab. Utilizar conhecimentos sobre Python, análise de dados, Github, fundamentos matemáticos, estatística e machine learning.
+## 2. Levantar as fontes de dados públicas e não confidenciais e iniciar a coleta de informações. Esse projeto pode ser feito em formato Python através do Google Collab utilizando conhecimentos sobre Python, análise de dados, Github, fundamentos matemáticos, estatística e machine learning.
 
-  Data Management
+###  Data Management
 https://www.kaggle.com/code/nkitgupta/advance-data-preprocessing
 https://www.kaggle.com/code/randylaosat/predicting-employee-kernelover/notebook
-  Decision making
+
+###  Decision making
 https://www.kaggle.com/code/codestudiods/eda-and-model-building-bank-marketing-dataset/notebook
 https://www.kaggle.com/code/janiobachmann/bank-marketing-campaign-opening-a-term-deposit
 
-3. Efetuar a análise exploratória de dados levantando os principais pontos relevantes para a solução do caso.
+## 3. Efetuar a análise exploratória de dados levantando os principais pontos relevantes para a solução do caso.
 
   1. Introduction
   2. Handling Missing Values
@@ -34,7 +38,7 @@ https://www.kaggle.com/code/janiobachmann/bank-marketing-campaign-opening-a-term
   2.2.2 Encoding Missingness
   2.2.3 Imputation Methods
 
-4. Construa um aprendizado de máquina ou modelo estatístico.
+## 4. Construa um aprendizado de máquina ou modelo estatístico.
 
   3. Encoding Categorical Attributes
   3.1 Supervised Encoding Methods
@@ -43,11 +47,11 @@ https://www.kaggle.com/code/janiobachmann/bank-marketing-campaign-opening-a-term
   3.1.3 Deep Learning Methods
   5. Avaliar através de técnicas de modelagem.
 
-6. Apresentar uma visualização de dados com os resultados obtidos.
+## 6. Apresentar uma visualização de dados com os resultados obtidos.
 
   3.2 Approaches for Novel Categories
 
-7. Faça a entrega dessa visualização de dados via GitHub. Na sua entrega deve conter uma documentação em formato Markdown ou PDF com os tópicos: Coleta de dados, modelagem e conclusões. 
+## 7. Faça a entrega dessa visualização de dados via GitHub. Na sua entrega deve conter uma documentação em formato Markdown ou PDF com os tópicos: Coleta de dados, modelagem e conclusões. 
 
 ###
 Please note that while data analysis and machine learning offer promising solutions, they should be used responsibly considering ethical implications and potential biases in the data.
