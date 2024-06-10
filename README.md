@@ -7,7 +7,7 @@ And here are for frameworks and applications.
 🌱 I work in Data Analytics field, focused in results and learning sustainability and relationship management.
 Degree in Meteorology practicing mathematics, statistics and visualizations turned diversed data, ETL and exploratory analyses all familiar.
 
-⚡Skilled up during Data Analyst certification program (EBAC) developig data projects and pipelines using Python, SQL, Machine Learning and Amazon Web Services (links in the description).
+⚡Skilled up during Data Analyst certification program (EBAC) developing data projects and pipelines using Python, SQL, Machine Learning and Amazon Web Services (links in the description).
 
 🔭 Data and science driven, I get satisfied in environments of productive feedback and learning. Assertive, creative and empathetic, I desire to impact decision-making development using agile work principles and Artificial Intelligence tools.
 
