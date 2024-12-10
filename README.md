@@ -1,5 +1,5 @@
-## Hello! This is Data Analyst Rafael Barbosa 🌎🤍
-Here we find frameworks and applications.
+## Hello! This is Analyst Rafael Barbosa 🌎
+Frameworks and applications
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafie-b)
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>](https://www.linkedin.com/in/barbosa89/)
@@ -8,12 +8,12 @@ Here we find frameworks and applications.
 [![DIO Profile](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/rgb_barbosa/)
 [<img src='https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white'>](https://www.kaggle.com/rafieb/)
 
-🌱 Data and science driven, I work in Analytics field, focusing in business, sustainability and relationship managements.
-Graduated in Meteorology (UEA) and Certified Data Analyst (EBAC) practicing mathematics, statistics and visualizations, handling exploratory analyses and ETL in diversed data.
+🌱 Data and science driven, I work in Analytics field, focusing in sustainability, relationship managements and business.
+Practicing mathematics, statistics, visualizations, handling exploratory analyses and ETL diversed data, I got graduated in Meteorology (UEA) and certified as Data Analyst (EBAC).
 
-⚡Developing data projects and pipelines using Python, SQL, Machine Learning and Amazon Web Services (links in the description).
+⚡Developing projects and pipelines using Python, SQL, Machine Learning, Cloud (AWS), Miro, Whatsapp Business (links in the description).
 
-🔭 Assertive, creative and empathetic, I desire to impact decision-making development using agile work principles and Artificial Intelligence tools.
+🔭 Assertive, creative and empathetic, I seek to leverage growth using agile principles and Artificial Intelligence.
 
 ✨ Shall we commit? ✨
 
